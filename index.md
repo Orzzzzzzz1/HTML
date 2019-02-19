@@ -5,7 +5,7 @@
 		<title>框架</title>
 		<style type="text/css">
 			body{
-				background-image: url(img/timg.jpg);
+				background-image: url(timg.jpg);
 				background-repeat: no-repeat;
 				background-size:100%;
 				height:100%;
@@ -52,7 +52,7 @@
 				
                 border-radius: 10px;
                 margin: 20px 0;
-                background: url(img/1.jpg) no-repeat;
+                background: url(1.jpg) no-repeat;
                 background-color: white;
                 background-position: 8px;
                 padding-left: 50px;
@@ -68,7 +68,7 @@
 				
 				border-radius: 10px;
 				margin: 10px 0;
-				background: url(img/2.jpg) no-repeat;
+				background: url(2.jpg) no-repeat;
 				background-color: white;
 				background-position: 8px;
 				padding-left: 50px;
